@@ -26,10 +26,10 @@ This project focuses on performing Exploratory Data Analysis (EDA) on Google Pla
 
 ## Installation and Usage
 1. Clone this repository to your local machine using:
-   bash
+   ```bash
    git clone <repository-url>
 2. Ensure you have Python 3.x and the required libraries installed:
-   bash
+   ```bash
    pip install pandas numpy matplotlib seaborn
 3. Open the Jupyter Notebook to explore the analysis:
    ```bash
